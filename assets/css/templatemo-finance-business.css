@@ -398,6 +398,10 @@ header .navbar {
 	background-image: url(../images/slide_03.jpg);
 }
 
+.Modern-Slider .item-4 .img-fill {
+	background-image: url(../images/slide_03.jpg);
+}
+
 .Modern-Slider .NextArrow{
   position:absolute;
   top:50%;
